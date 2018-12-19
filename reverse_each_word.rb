@@ -9,5 +9,5 @@ answer <<  string.reverse
 
 end
 #binding.pry
-    answer.join( "" )
+    answer.join( " " )
 end
