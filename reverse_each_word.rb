@@ -17,3 +17,4 @@ answer2 =[]
 array2.collect do |string|
 answer2 <<  string.reverse
 end
+answer2.join( " " )
