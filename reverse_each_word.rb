@@ -7,7 +7,7 @@ answer =[]
 array.each do |p|
 answer <<  p.reverse
    end
-puts  answer.join
+return  answer.join
 
 
 end
