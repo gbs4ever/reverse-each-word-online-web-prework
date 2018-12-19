@@ -7,7 +7,7 @@ answer =[]
 array.each do |string|
 answer <<  string.reverse
 
-return  answer.join("")
+  answer.join("")
 
 
 end
