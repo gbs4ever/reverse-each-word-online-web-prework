@@ -14,6 +14,6 @@ def reverse_each_word(string)
 array2 = string.split()
 
 answer2 =[]
-array2.each do |string|
+array2.collect do |string|
 answer2 <<  string.reverse
 end
