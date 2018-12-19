@@ -6,7 +6,7 @@ array=string.split("")
 answer =[]
 array.each do |p|
 answer <<  p.reverse
-   end
+
 return  answer.join("")
 
 
