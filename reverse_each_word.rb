@@ -7,8 +7,6 @@ answer =[]
 array.each do |string|
 answer <<  string.reverse
 
-  answer.join()
-
-
-end
+  end
+    answer.join()
 end
