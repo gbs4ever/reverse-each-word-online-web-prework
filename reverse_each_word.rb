@@ -8,6 +8,6 @@ array.each do |string|
 answer <<  string.reverse
 
 end
-binding.pry
+#binding.pry
     answer.join( "" )
 end
